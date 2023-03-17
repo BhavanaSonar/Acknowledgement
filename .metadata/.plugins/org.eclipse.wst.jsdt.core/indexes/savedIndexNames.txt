@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\bhava\OneDrive\Desktop\SCMS_APP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2228643825.index

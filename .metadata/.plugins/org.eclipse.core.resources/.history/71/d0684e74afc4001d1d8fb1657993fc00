@@ -1,0 +1,15 @@
+package com.softech.Entity;
+
+import java.time.LocalDate;
+
+public class OrderHeader {
+	
+	private int ordId;
+	private String userName;
+	private String userMobileNo;
+	private String purchaseOrdNo;
+	private LocalDate purchaseOrdDate;
+	private OrderItems orderItems;
+	
+
+}
